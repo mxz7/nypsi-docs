@@ -1,22 +1,47 @@
+# What are chat reactions?:
+
+Chat reactions are events in which multiple individuals compete to type a word the fastest. They can spawn randomly from the bot or be initiated as a duel (`$cr duel`).
+
+## Example of a chat reaction:
+
+chat reaction
+
+type: `sailing`
+
+**winners**
+
+🥇Ayestk in `1.89s`
+
+🥈Scarlett in `2.73s`
+
+🥉M.axz in `3.42s`
+
+
 # leaderboards
 
-## types of chat reaction leaderboards
+Server leaderboards track stats for your servers only. You can access this with `$cr lb`
 
-### server stats
 
-first of all, there are your server leaderboards which track stats for your servers only. you can
-access this with `$cr lb`
+🏆 Overall: Total amount of wins combining all the placements (not including speed)
 
-these stats can be reset by server admins at any time and are not related to anything outside of the
-server.
+🥇 First: Most amount of wins for first place in a chat reaction.
 
-### speed stats
+🥈 Second: Most amount of wins for second place in a chat reaction.
 
-speed statistics are only affected by **randomly started chat reactions**. to view the leaderboard
-you can do `$top cr/crdaily (global)`.
+🥉 Third: Most amount of wins for third place in a chat reaction.
 
-when you get a new leaderboard position nypsi will notify you with a message in chat
+🏎️ Speed: Fastest time a word has been typed in a random chat reaction. 
+
+(Speed statistics are only affected by **randomly started chat reactions**. To view the leaderboard
+you can do `$top cr/daily (global).`)
+
+*When you get a new leaderboard position, Nypsi will notify you with a message in the chat*
+
 
 ## resetting server leaderboards
 
-to reset your server's leaderboards, use `$cr stats reset`
+To reset your server's leaderboards, use `$cr stats reset`
+
+**These stats can be reset by server admins at any time and are not related to anything outside of the
+server.**
+
