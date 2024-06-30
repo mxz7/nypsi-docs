@@ -18,7 +18,7 @@ technical knowledge. you will be ignored if you ask the owner for help.
 
 ## get started
 
-### first step: downloading the code
+### downloading the code
 
 open terminal and get yourself in the location where you want to download nypsi and the run the
 following command
@@ -74,3 +74,9 @@ run `npx tsc` to compile nypsi's source code
 ### all done!
 
 you should be able to run nypsi with `node .`
+
+## contributing
+
+to contribute to nypsi, you will need to have a github account. with this installation, you will be
+able to make changes and test those changes. you will have to fork the repository, commit changes,
+and then make a pull request.
