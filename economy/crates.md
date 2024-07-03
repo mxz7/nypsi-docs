@@ -16,30 +16,30 @@ use the `/opencrates` command to open multiple crates at once. you can use `/use
 
 {% tabs %}
 {% tab title="vote/basic/69420" %}
-{% @nypsi-crate-odds/basic-crate %}
+{% @nypsi/basic-crate-odds %}
 {% endtab %}
 
 {% tab title="boosters" %}
-{% @nypsi-crate-odds/boosters-crate %}
+{% @nypsi/boosters-crate-odds %}
 {% endtab %}
 
 {% tab title="workers" %}
-{% @nypsi-crate-odds/workers-crate %}
+{% @nypsi/workers-crate-odds %}
 {% endtab %}
 
 {% tab title="mineshaft chest" %}
-{% @nypsi-crate-odds/mineshaft-chest %}
+{% @nypsi/mineshaft-chest-odds %}
 {% endtab %}
 
 {% tab title="nypsi" %}
-{% @nypsi-crate-odds/nypsi-crate %}
+{% @nypsi/nypsi-crate-odds %}
 {% endtab %}
 
 {% tab title="omega" %}
-{% @nypsi-crate-odds/omega-crate %}
+{% @nypsi/omega-crate-odds %}
 {% endtab %}
 
 {% tab title="gem" %}
-{% @nypsi-crate-odds/gem-crate %}
+{% @nypsi/gem-crate-odds %}
 {% endtab %}
 {% endtabs %}
