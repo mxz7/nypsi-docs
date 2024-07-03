@@ -48,11 +48,9 @@ mines: 20% chance to spawn, <mark style="color:green;">0.5% chance to drop when 
 
 <mark style="color:green;">0.175% chance to obtain from completing any achievement</mark>
 
-21.718% chance to obtain from a gem crate
-
-3.755% chance to obtain from an omega crate
-
 < 0.01% chance to obtain from fishing with an incredible rod
+
+{% @nypsi/green-gem-chance %}
 
 ### shattering
 
@@ -78,11 +76,9 @@ crafting: 5 gem shards
 
 <mark style="color:green;">0.175% chance to obtain from completing any achievement</mark>
 
-21.531% chance to obtain from a gem crate
-
-2.738% chance to obtain from an omega crate
-
 < 0.01% chance to obtain from fishing with an incredible rod
+
+{% @nypsi/blue-gem-chance %}
 
 ### shattering
 
@@ -120,11 +116,9 @@ crafting: 15 gem shards
 
 <mark style="color:green;">0.175% chance to obtain from completing any achievement</mark>
 
-21.555% chance to obtain from a gem crate
-
-1.958%% chance to obtain from an omega crate
-
 < 0.01% chance to obtain from fishing with an incredible rod
+
+{% @nypsi/purple-gem-chance %}
 
 ### shattering
 
@@ -158,11 +152,9 @@ crafting: 20 gem shards
 
 <mark style="color:green;">0.175% chance to obtain from completing any achievement</mark>
 
-21.475% chance to obtain from a gem crate
-
-1.984% chance to obtain from an omega crate
-
 < 0.01% chance to obtain from fishing with an incredible rod
+
+{% @nypsi/pink-gem-chance %}
 
 ### shattering
 
@@ -198,11 +190,9 @@ crafting: 2 blue gems, 2 green gems, 1 pink gem, 1 purple gem
 
 0.02% chance to obtain when buying an item from the store (NOT the shop)
 
-6.207% chance to obtain from a gem crate
-
-0.229% chance to obtain from an omega crate
-
 < 0.01% chance to obtain from fishing with an incredible rod
+
+{% @nypsi/white-gem-chance %}
 
 ### shattering
 
@@ -236,7 +226,7 @@ removes almost all negative effects possible from other gems
 
 every time you do an action that would cause a gem to break (and have 5 unique gems), there's a 50% chance to trigger the crafting sequence of a crystal heart. otherwise, your gem shatters and you only get shards ):
 
-1.251% chance to obtain from a gem crate
+{% @nypsi/crystal-heart-chance %}
 
 ### shattering
 
