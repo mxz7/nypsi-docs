@@ -4,7 +4,7 @@
 
 you can easily obtain vote crates by voting for nypsi with `$vote`. you can also get crates from
 tasks, daily rewards, fishing, lootdrops, [premium](https://docs.nypsi.xyz/premium) rewards every
-friday night / saturday morning or the [online shop](https://ko-fi.com/tekoh/shop)
+friday night / saturday morning or the [online shop](https://ko-fi.com/tekoh/shop).
 
 ## what do i get from crates?
 
@@ -45,4 +45,3 @@ you can use the `$use <name of crate> <amount>` commmand to open specific number
 {% @nypsi/gem-crate-odds %}
 {% endtab %}
 {% endtabs %}
-
