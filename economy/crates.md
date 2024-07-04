@@ -11,10 +11,38 @@ friday night / saturday morning or the [online shop](https://ko-fi.com/tekoh/sho
 you can get random items such as collectables and cars, but most notably being tools such as fishing
 rods, guns, pickaxes, other crates, boosters or scratch cards.
 
+## how do i open my crates?
+you can use the `$use <name of crate> <amount>` commmand to open specific number of a specific crate.
+
 ## crate odds
 
-you can view the odds / chances for items from crates [here](https://github.com/mxz7/nypsi-odds)
+{% tabs %}
+{% tab title="vote/basic/69420" %}
+{% @nypsi/basic-crate-odds %}
+{% endtab %}
 
-## how do i open my crates?
+{% tab title="boosters" %}
+{% @nypsi/boosters-crate-odds %}
+{% endtab %}
 
-you can use the `$use <name of crate> <amount>` commmand to open specific number of a specific crate.
+{% tab title="workers" %}
+{% @nypsi/workers-crate-odds %}
+{% endtab %}
+
+{% tab title="mineshaft chest" %}
+{% @nypsi/mineshaft-chest-odds %}
+{% endtab %}
+
+{% tab title="nypsi" %}
+{% @nypsi/nypsi-crate-odds %}
+{% endtab %}
+
+{% tab title="omega" %}
+{% @nypsi/omega-crate-odds %}
+{% endtab %}
+
+{% tab title="gem" %}
+{% @nypsi/gem-crate-odds %}
+{% endtab %}
+{% endtabs %}
+
