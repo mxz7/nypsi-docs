@@ -26,6 +26,6 @@ items on the karma shop have a limited stock, so make sure to buy them before st
 
 the karma shop opens a few times a month, use the `/karmashop view` command to see when it is next scheduled to be opened. **please note** that these times are generated at random by nypsi for fairness.
 
-## karmashop items
+## karma shop items
 
 {% @nypsi/karmashop %}
