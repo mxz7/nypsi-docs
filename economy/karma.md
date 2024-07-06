@@ -8,12 +8,9 @@ to check how much karma you have, use the `/karma` command.
 
 ## what is karma used for
 
-karma is used in the karma shop that is opened periodically to purchase rewards such as xp, crates,
-and premium ranks.
+karma is used in the karma shop that is opened periodically to purchase rewards such as xp, crates, and premium ranks.
 
 ## karma shop
-
-<img src="https://raw.githubusercontent.com/tekoh/nypsi/docs/assets/karmashop_1.png" height="200px" width="auto" style="border-radius:4px">
 
 while the karma shop is opened, it can be viewed using the `/karmashop view` command.
 
@@ -27,6 +24,8 @@ items on the karma shop have a limited stock, so make sure to buy them before st
 
 ## how often is the karma shop open
 
-the karma shop opens a few times a month, use the `/karmashop view` command to see when it is next
-scheduled to be opened. **please note** that these times are generated at random by nypsi for
-fairness.
+the karma shop opens a few times a month, use the `/karmashop view` command to see when it is next scheduled to be opened. **please note** that these times are generated at random by nypsi for fairness.
+
+## karmashop items
+
+{% @nypsi/karmashop %}
