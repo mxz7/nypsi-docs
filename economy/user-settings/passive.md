@@ -2,8 +2,7 @@
 
 ## what is passive mode
 
-enabling passive mode allows you to not be robbed or attacked by other players, at the expensive of
-reduce xp gain and reduced multiplier
+enabling passive mode allows you to not be robbed or attacked by other players, at the expense of reduced multiplier, xp gain and cookie production
 
 ## how to enable it
 
