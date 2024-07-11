@@ -1,4 +1,4 @@
-# fishing and hunting and mining
+# fish, hunt and mine
 
 ## how do i get a fishing rod / pickaxe / gun?
 
