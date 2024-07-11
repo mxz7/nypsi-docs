@@ -11,6 +11,7 @@
   * [setup](chatreactions/setup.md)
   * [word lists](chatreactions/wordlists.md)
 * [economy](economy/README.md)
+  * [achievements](economy/achievements.md)
   * [bakery](economy/bakery.md)
   * [bankrob](economy/bankrob.md)
   * [crates](economy/crates.md)
