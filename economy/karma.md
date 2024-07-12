@@ -2,7 +2,7 @@
 
 ## how to get karma
 
-karma is earned passively while using commmands with nypsi.
+karma is earned passively while using commands with nypsi.
 
 to check how much karma you have, use the `/karma` command.
 

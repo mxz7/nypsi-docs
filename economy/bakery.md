@@ -1,41 +1,33 @@
-# bakery 
-the bakery is a way to produce cookies and cakes.
+# bakery
+
+the bakery is a way to produce cookies and cakes
 
 ## how it works
-you need 1 furnance and 1 coal each time you bake. your furnace wont be used while baking but for every bake you need 1 coal.
-if you want to bake do
-```
-$bake
-```
+
+you need a furnace and 1 coal each time you bake. your furnace wont be used while baking, but coal will be used. if you want to bake, do  `/bake`
 
 ## how do i bake more cookies?
 
-you can increase your cookie production with cursor, supercursor and grandmas.
+you can increase your cookie production with cursors, super cursors, and grandmas
 
-|item|effect|
-|------|-------|
-|cursor|+1 max cookie|
-|supercursor|+1 min &  max cookie|
-|grandmas|bakes 0.5 cookies each hour|
-|oven|+1 hour of afk time|
+| item         | effect                        |
+| ------------ | ----------------------------- |
+| cursor       | +1 max cookie                 |
+| super cursor | +1 min & max cookie           |
+| grandmas     | bakes 0.5 cookies each hour   |
+| grandpa      | +0.5% chance of baking a cake |
+| oven         | +1 hour of afk time           |
 
+with ovens, cookies will build up from grandmas up to the max afk time. this means that with 12 ovens you can store 6 cookies per grandma, maxing out after 12 hours.
 
-
-
-to increase the afk time of your grandmas you can use ovens. if you have 12 ovens and you dont bake for 11 hours your grandmas still bake and stack up the cookies.
-
-there are also 2 ways to double the output of cookies are the guild upgrade "double cookies" 0.5% for every upgrade. another way are gems like crystal heart (5%), white (2%), pink (0,5%) and blue (0,1%)
+cookie production also has chance to be doubled either from [guild upgrades](guilds.md#guild-shop-upgrades) or certain [gems](items/gems.md)
 
 ## how do i bake cakes?
 
-there is only 1 way to get cakes.
-if you use grandpas there is a chance of 0.5% to bake a cake. the percent chance doesnt stack up if you have more grandpas its only 0.5% each grandpa so the chance of getting more cakes varies according to the number of the grandpas.
+cakes have a chance to be baked depending on the amount of grandpas in your bakery. it starts off at 0%, increasing by 0.5% per grandpa, up to a maximum of 25%. any amount of grandpas over 50 does nothing, so it is not recommended using more than that.&#x20;
 
+the percent chance to get cakes continues to run until it fails, so it is possible to get more than 1 cake per bake if you are lucky. if you have a 25% chance of getting a cake, the chance of 1 cake is 1/4, 2 cakes 1/16, 3 cakes 1/64, etc.
 
 ## how do you get upgrades?
 
-the upgrades like grandmas, grandpas, cursor, supercursor and ovens can you get them from different crates and scratch cards like basic_crate, 69420_crate, nypsi_crate, dailyscratchcards, luckyscratchcards.
-
-
-
-
+upgrades can be obtained from [crates](items/crates.md) and [scratch cards](items/scratchcards.md)
