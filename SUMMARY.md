@@ -17,6 +17,7 @@
     * [scratch cards](economy/items/scratchcards.md)
     * [loot drops](economy/items/lootdrops.md)
     * [gems](economy/items/gems.md)
+    * [portals](economy/portals.md)
   * [user settings](economy/user-settings/README.md)
     * [hidden](economy/user-settings/hidden.md)
     * [passive mode](economy/user-settings/passive.md)
