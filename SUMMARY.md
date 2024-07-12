@@ -23,7 +23,7 @@
   * [achievements](economy/achievements.md)
   * [bakery](economy/bakery.md)
   * [bankrob](economy/bankrob.md)
-  * [fishing and hunting](economy/fishinghunting.md)
+  * [fish hunt and mine](economy/fishhuntmine.md)
   * [gambling](economy/gambling.md)
   * [guilds](economy/guilds.md)
   * [karma](economy/karma.md)
