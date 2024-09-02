@@ -1,6 +1,7 @@
 # table of contents
 
 -   [nypsi](README.md)
+-   [birthdays](birthdays.md)
 -   [last.fm integration](music.md)
 -   [premium ranks](premium.md)
 -   [reaction roles](reactionroles.md)
