@@ -25,6 +25,7 @@
     -   [achievements](economy/achievements.md)
     -   [bakery](economy/bakery.md)
     -   [bankrob](economy/bankrob.md)
+    -   [crash](economy/crash.md)
     -   [fish hunt and mine](economy/fishhuntmine.md)
     -   [gambling](economy/gambling.md)
     -   [guilds](economy/guilds.md)
